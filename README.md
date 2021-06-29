@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Dennis Alves, I'm a frontend developer from Brazil currently working at @cryptocurrencytrader (a.k.a. [Bitcointrade](https://broker.bitcointrade.com.br) ).
+My name is Dennis Alves, I'm a frontend developer from Brazil currently working at (@cryptocurrencytrader)[https://github.com/cryptocurrencytrader] (a.k.a. [Bitcointrade](https://broker.bitcointrade.com.br) ).
 
 My main tech stack currently is ReactJS with Typescript.
 
